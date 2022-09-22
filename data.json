@@ -1,0 +1,88 @@
+{    
+  "data": [
+      {
+        "id": "1",
+        "name": "Samsung Galaxy A51",
+        "price": "2950",
+        "img": "https://images.samsung.com/is/image/samsung/ru-feature-galaxy-a51-a515-204085432?$FB_TYPE_A_PNG$",
+        "like": "false"
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy A52",
+        "price": 3250,
+        "img": "https://images.samsung.com/is/image/samsung/p6pim/ru/galaxy-a52/feature/ru-feature-galaxy-a52-a525-407822938?$FB_TYPE_A_JPG$",
+        "like": false
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy A53",
+        "price": 3650,
+        "img": "https://cdn.svyaznoy.ru/upload/iblock/a41/a4161b458b07f4be623fb4f19f28569b.jpg/resize/307x224/",
+        "like": false
+      },
+      {
+        "id": 4,
+        "name": "Iphone 13 PRO",
+        "price": 10990,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/apple/iphone_13_pro/iphone_13_pro_colors_1-600x600h.jpg",
+        "like": false
+      },
+      {
+        "id": 5,
+        "name": "Iphone 13 PRO MAX",
+        "price": 11990,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/apple/iphone_13_pro/aea8ede8-d669-4ce4-8a44-5d4e1a571d32-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 6,
+        "name": "Iphone 14 PRO",
+        "price": 17990,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/apple/iphone14pro/1e3ea7ce-a7c0-453b-b9a7-14ba87acd2b0-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 7,
+        "name": "Iphone 14 PRO MAX",
+        "price": 18990,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/apple/iphone14pro/2bd3138a-7f21-46b3-aceb-f9a4f460974e-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 8,
+        "name": "Samsung Galaxy S22",
+        "price": 7390,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/samsung/galaxys22/beznazvanija-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 9,
+        "name": "Samsung Galaxy S22 Ultra",
+        "price": 10750,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/samsung/galaxys22ultra/beznazvanija%285%29-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy A73",
+        "price": 4490,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/samsung/galaxya73/02bf9a3f-b6a2-4d49-a5a6-7aed4bd92d81-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 11,
+        "name": "Redmi Note 11 Pro",
+        "price": 2590,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smartfony/xiaomi/redmi-note-11pro/b5a30620-a585-4dcb-a49f-cb02803a839a-541x541h.jpeg",
+        "like": false
+      },
+      {
+        "id": 12,
+        "name": "Apple Watch Series 7",
+        "price": 4290,
+        "img": "https://tajmobile.tj/image/cache/catalog/tovary/smart-chasy/apple/apple_watch_7/mkue3_vw_34fr%2Bwatch-41-alum-blue-nc-7s_vw_34fr_wf_co-541x541.jpeg",
+        "like": false
+      }
+    ]
+}
